@@ -54,4 +54,4 @@ The dataset includes soil and environmental parameters:
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/crop-production-management.git
+git clone https://github.com/RacingNewbie/crop-production-management.git
