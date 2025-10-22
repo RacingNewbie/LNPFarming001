@@ -19,4 +19,39 @@ The goal is to assist farmers in making informed decisions about crop selection 
   - Soil Nutrients: Nitrogen (N), Phosphorus (P), Potassium (K)
   - Environmental Factors: Temperature, Humidity, pH, Rainfall
 - Implement machine learning classification models for crop recommendation:
-  - D
+  - Decision Tree Classifier
+  - Random Forest Classifier
+  - K-Nearest Neighbors (KNN)
+  - Support Vector Classifier (SVC)
+- Provide actionable insights for farmers to optimize yield  
+
+---
+
+## 🧰 Technologies & Tools
+
+- **Programming Language:** Python  
+- **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn  
+- **Machine Learning Models:** Decision Tree, Random Forest, KNN, SVC  
+- **Data Visualization:** matplotlib, seaborn  
+
+---
+
+## 📊 Dataset
+
+The dataset includes soil and environmental parameters:
+
+- Nitrogen (N), Phosphorus (P), Potassium (K) levels  
+- Soil pH  
+- Temperature (°C)  
+- Humidity (%)  
+- Rainfall (mm)  
+
+**Target Variable:** Recommended Crop Type
+
+---
+
+## 🔧 Installation & Usage
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/yourusername/crop-production-management.git
